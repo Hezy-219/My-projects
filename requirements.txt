@@ -2,3 +2,4 @@ nltk
 textblob
 deep-translator
 ipywidgets
+tzdata  # Required for ZoneInfo to find the America/Toronto database
