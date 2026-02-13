@@ -1,0 +1,13 @@
+{
+    "Milkyway_galaxy": {
+        "Rate_star_form": 3.0,
+        "Star/plan": 0.5,
+        "hab_plan/star_sys": 2.0,
+        "frac_hab_planlife_dev": 1.0,
+        "frac_plan_intel_life_form": 0.01,
+        "frac_civi_dev_detect_tech": 0.1,
+        "ave_lifespan_comms_civi": 10000,
+        "time_of_rec": "2026-02-13 11:09:53.599368-05:00",
+        "save_time": "2026-02-13 11:09:58.600282-05:00"
+    }
+}
