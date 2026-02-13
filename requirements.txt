@@ -1,0 +1,4 @@
+nltk
+textblob
+deep-translator
+ipywidgets
